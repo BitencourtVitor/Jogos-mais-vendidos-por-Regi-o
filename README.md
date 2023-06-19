@@ -6,7 +6,7 @@
 - Print do Dashboard feito em Power BI
 
 ## Introdução
-Este foi o primeiro projeto desenvolvido utilizando uma base de dados disponível no [Kaggle](https://www.kaggle.com/), trata-se da venda de jogos em diferentes regiões a partir de variados fatores.
+Este foi o primeiro projeto desenvolvido pelo usuário utilizando uma base de dados disponível no [Kaggle](https://www.kaggle.com/), trata-se da venda de jogos em diferentes regiões a partir de variados fatores.
 
 ## Conclusão
 É interessante constatar que o jogo Wii Sports atingiu o topo em quantidade de vendas, o que pode indicar que a mecânica de jogos cuja premissa é o movimento corporal agrega bastante popularidade ao redor do mundo.
