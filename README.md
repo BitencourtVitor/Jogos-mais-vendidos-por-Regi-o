@@ -25,4 +25,4 @@ mecanismo de coleta.
 - TRANSFORMAÇÃO: Através do Power Query foi realizada toda a etapa de tratamento dos dados, feitas algumas correções nas colunas afim de facilitar o entendimento da base.
 - LOAD: Template criado no Figma utilizando uma paleta de tons ativos, de forma que passasse justamente a mensagem de ser algo divertido, descontraído, como jogos costumam ser. Visualizações inseridas dentro do Power BI considerando a distribuição mais conveniente.
 
-![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Jogos%20mais%20vendidos%20por%20Regi%C3%A3o/print_dashboard.png)
+![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/Jogos_Vendidos/blob/main/print_dashboard.png)
